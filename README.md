@@ -98,6 +98,11 @@ This project aims to undergo regular security audits. If you find a security vul
 
 [MIT](LICENSE)
 
+## Contact
+
+For questions or support, please contact:
+- Ford Scott (scottf25@mail.wlu.edu)
+
 ## Acknowledgements
 
 - The Argon2 and AES-GCM implementations
