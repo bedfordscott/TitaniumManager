@@ -92,7 +92,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## Security Audits
 
-This project aims to undergo regular security audits. If you find a security vulnerability, please report it responsibly by emailing scottf25@mail.wlu,edu.
+This project aims to undergo regular security audits. If you find a security vulnerability, please report it responsibly by emailing scottf25@mail.wlu.edu.
 
 ## License
 
