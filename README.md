@@ -47,8 +47,8 @@ This hardware-based approach provides significant advantages:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/titanium-manager.git
-   cd titanium-manager
+   git clone https://github.com/bedfordscott/TitaniumManager.git
+   cd TitaniumManager
    ```
 
 2. Install dependencies:
@@ -92,7 +92,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## Security Audits
 
-This project aims to undergo regular security audits. If you find a security vulnerability, please report it responsibly by emailing security@example.com.
+This project aims to undergo regular security audits. If you find a security vulnerability, please report it responsibly by emailing scottf25@mail.wlu,edu.
 
 ## License
 
