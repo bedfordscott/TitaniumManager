@@ -12,6 +12,21 @@ Titanium Manager is a secure, open-source password manager with hardware key int
 - **Intuitive UI**: Clean, modern interface focused on simplicity
 - **Open Source**: Fully transparent codebase that can be audited
 
+## Hardware Key Security
+
+Titanium Manager supports various hardware security methods:
+
+- **YubiKey Integration**: Use your YubiKey for secure vault access
+- **WebAuthn/FIDO2**: Support for standard FIDO2 security keys
+- **TPM Support**: Utilize your device's Trusted Platform Module for enhanced security
+- **Multi-factor Authentication**: Combine hardware keys with your master password for maximum security
+
+This hardware-based approach provides significant advantages:
+- Protection against keyloggers and malware
+- Physical security factor (something you have, not just something you know)
+- Resistance to phishing attacks
+- FIDO2 biometric verification (when supported by hardware)
+
 ## Security Features
 
 - AES-GCM 256-bit encryption for the password vault
